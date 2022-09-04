@@ -1,3 +1,4 @@
+
 Mantis Dual 5015 Toolhead by Long
 ============
     
@@ -84,6 +85,10 @@ Mantis Dual 5015 Toolhead by Long
 
 Changelog
 -----------------
+09-04-2022
+- Added hotend mount for rapido that allows usage of <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified sherpa mini housing_front</A>, which increases stability of the sherpa mini.
+- updated the cad for rapido to include this.
+
 06-08-2022
 - Updated CADs to include the fan braces.
   - Dragon CAD now includes both versions of the ducts (normal and higher flow variant) and also the hotend mount that braces the sherpa mini.

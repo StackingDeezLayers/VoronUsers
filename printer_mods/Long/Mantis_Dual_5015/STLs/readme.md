@@ -1,3 +1,4 @@
+
 What to Print
 ============
 ****note that Voron 1.8 is only compatible with Dragon hotend at the moment.**  If you need something else just let me know and I'll work with you.
@@ -36,6 +37,7 @@ Hotend_Mount_Dragon_v1.040_sherpa_brace.stl allows usage of <a href="https://git
 <BR>
 <BR>Duct_v1.037_Left_+2mm.stl
 <BR>Duct_v1.037_Right_+2mm.stl
+<BR>
 <BR>Magprobe_v0.31_Dragon.stl
 </TD>
 <TD>Note, because Voron 1.8 has an inverted gantry, the rear ear of the 5015 fans must be cut off.  Some people have reported being able to use the standard v2.4 ducts with a very very close clearance.  <BR><BR><I>The Full duct brace will not work with the +2mm versions.  </I>
@@ -69,6 +71,7 @@ Hotend_Mount_Dragon_v1.040.stl
 <BR>
 <BR>duct_dragon_crazy_volcano_v1.0_left.stl
 <BR>duct_dragon_crazy_volcano_v1.0_right.stl
+<BR>
 <BR>Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
 </TD>
 <TD>Hotend_Mount_Dragon_v1.040_sherpa_brace.stl allows usage of <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified sherpa mini housing_front</A>, which triangulates the sherpa mini mounting and adds extra stability.  
@@ -78,18 +81,28 @@ Hotend_Mount_Dragon_v1.040.stl
 <TD align="center">Rapido HF</TD>
 <TD align="center">
 Hotend_Mount_Rapido_v.03.stl
+<BR><B>-or-</B>
+<BR>Hotend_Mount_Rapido_v.03_Rotated120Degrees.stl
+<BR><B>-or</B>
+<BR>Hotend_Mount_Rapido_v.03_Rotated120Degrees_sherpa_brace.stl
+<BR>
 <BR>duct_rapido_HF_v0.03b_left.stl
 <BR>duct_rapido_HF_v0.03b_right.stl
+<BR>
 <BR>Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
 </TD>
-<TD><B>Print the hotend mount (Hotend_Mount_Rapido_v.03.stl or Hotend_Mount_Rapido_v.03_Rotated120Degrees.stl) that allows you to mount the Rapido hotend so that the wires come out right/forward and the logo of the sock faces directly forward</B>. <BR>Because the Rapido uses FOUR screws on the top of the heatsink, and THREE screws to mount the heater to the heatsink, the orientation of the hotend mount versus the heater wire can vary.  The Part cooling ducts for Rapido have been optimized so that the Phaetus logo on the sock should point directly forward (yes the sock is asymmetrical).  </TD>
+<TD><B>Print the hotend mount (Hotend_Mount_Rapido_v.03.stl or Hotend_Mount_Rapido_v.03_Rotated120Degrees.stl) that allows you to mount the Rapido hotend so that the wires come out right/forward and the <U>logo of the sock faces directly forward</U></B>.   Note, only the 120 degrees rotated version of the hotend mount can mount to the <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified sherpa mini housing_front</A> due to interference of the mounting holes when they are rotated in the other direction.
+<BR>
+<BR>Because the Rapido uses FOUR screws on the top of the heatsink, and THREE screws to mount the heater to the heatsink, the orientation of the hotend mount versus the heater wire can vary.  The Part cooling ducts for Rapido have been optimized so that the Phaetus logo on the sock should point directly forward (yes the sock is asymmetrical).  </TD>
 </TR>
 <TR>
 <TD align="center">Rapido UHF</TD>
 <TD align="center">
-Hotend_Mount_Rapido_v.03.stl
+(See Rapido HF for which hotend mount)
+<BR>
 <BR>duct_rapido_UHF_v0.03b_left.stl
 <BR>duct_rapido_UHF_v0.03b_right.stl
+<BR>
 <BR>Magprobe_v0.31_RapidoUHF.stl
 </TD>
  <TD>See the RapidoHF notes on which hotend mount to print.<BR>Don't forget you will need to switch between magprobes if you switch between UHF and HF variant of the Rapido.</TD>
