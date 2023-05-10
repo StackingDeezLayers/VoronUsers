@@ -67,8 +67,9 @@ Mantis Dual 5015 Toolhead by Long
 - X-endstop relocated to carriage.  Easy to transition to umbilical if desired.
   - X-endstop must be relocated because the Mantis carriage is smaller and does not hang down far enough to trigger the endstop pod.
   - Y-endstop can still be from the spec endstop pod on the right xy-joint, however **I highly recommend relocating the y-endstop to the right a/b drive.**  
-    - Normal 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation)
-    - [Pin mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod) 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units)
+    - Normal 2.4 version -
+[https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_Y_Endstop_Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_Y_Endstop_Relocation)
+    - [Pin mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod) 2.4 version - [https://github.com/hartk1213/MISC/blob/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_Trident_Pins_Mod/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_upper_with_jst_y_endstop_pinned.stl](https://github.com/hartk1213/MISC/blob/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_Trident_Pins_Mod/STLs/Gantry/AB_Drive_Units/V2/a_drive_frame_upper_with_jst_y_endstop_pinned.stl)
   - Ditching the cable chain would save around 150g on the x-axis for a Voron 300.  
 - Area around heat block is very open.  Ducts give wide berth to block to decrease melting issues.
     
